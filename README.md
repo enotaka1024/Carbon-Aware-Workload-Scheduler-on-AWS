@@ -1,2 +1,2 @@
 # Carbon-Aware-Workload-Scheduler-on-AWS
-EV Charging Simulation with low carbon intensity
+Python graphical Image processing batch job scheduler
